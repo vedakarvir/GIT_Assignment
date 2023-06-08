@@ -1,6 +1,6 @@
 #!/bin/bash
-
-# Author : Veda Karvir
+# Author : vedakarvir
+# Author Name : Veda Karvir
 # This script calculates simple interest
 
 echo "Enter loan amount:"
